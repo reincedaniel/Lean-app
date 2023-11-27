@@ -1,4 +1,4 @@
-# Lean App (MDS-ISEC project)
+# Learn App (MDS-ISEC project)
 
 Lean into Innovation 
 Data Science Pioneers of Tomorrow!
